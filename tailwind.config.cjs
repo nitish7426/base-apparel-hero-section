@@ -4,14 +4,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "hsl(223, 87%, 63%)",
-        "secondary-1": "hsl(223, 100%, 88%)",
-        "secondary-2": "hsl(354, 100%, 66%)",
-        "neutral-1": "hsl(0, 0%, 59%)",
-        "neutral-2": "hsl(209, 33%, 12%)",
+        primary1: "hsl(0, 36%, 70%)",
+        primary2: "hsl(0, 93%, 68%)",
+        neutral: "hsl(0, 6%, 24%)",
       },
       fontFamily: {
-        sans: ["Libre Franklin", "sans-serif"],
+        sans: ["Josefin Sans", "sans-serif"],
       },
     },
   },
